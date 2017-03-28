@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4157F9B9-F2E1-499B-8619-3F603E5F4E5B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackLayoutExos/StackLayoutExos2Page.xaml.cs">
+    <Files>
+      <File FileName="StackLayoutExos/App.xaml.cs" Line="11" Column="35" />
+      <File FileName="StackLayoutExos/StackLayoutExos2Page.xaml.cs" Line="12" Column="4" />
+      <File FileName="StackLayoutExos/StackLayoutExosPage.xaml.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StackLayoutExos.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D903E133-21C9-4A54-B526-3B0931123247" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
